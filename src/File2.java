@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public class File2 {
+public class File2 {
+    // 222
+    // 2222
 }
